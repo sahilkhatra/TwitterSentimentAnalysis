@@ -6,6 +6,7 @@ There are three files. One is for cleaning the dataset. The next is single varia
 Link to Kaggle Dataset: 
 https://www.kaggle.com/datasets/equinxx/stock-tweets-for-sentiment-analysis-and-prediction
 
-Link to dataset used for senior project as requested: https://docs.google.com/spreadsheets/d/1VmCa0h0j2u65NO0DSQiRaGAspKH7kitE6KhgTAKtCAg/edit?usp=sharing
+Link to dataset used for senior project as requested: 
+https://drive.google.com/file/d/1EZQg39vB8CfIO9M9AJ9SrqHpcW6ZjsBN/view
 
-
+The cleaned dataset is in the repository. 
